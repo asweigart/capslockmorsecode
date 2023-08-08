@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "1a9a4f79a23ea14359125f380650da782bc2ec5466bcbf6b5d359f595e9805f1"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "capslockmorsecode": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
